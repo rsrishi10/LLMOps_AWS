@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: QASystem
+Version: 0.1
+Requires-Dist: boto3>=1.34.131
+Requires-Dist: langchain
+Requires-Dist: langchain_aws>=0.2.7
+Requires-Dist: pypdf
+Requires-Dist: faiss-cpu
+Requires-Dist: streamlit
